@@ -103,7 +103,7 @@ I'm **Ankit Dash**, a DAML (Data Analytics & Machine Learning) student from **Od
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ankit-builds1&icon=2&color=3" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit-builds1&style=for-the-badge&color=00c7b7" alt="Profile Views"/>
 </p>
 
 <p align="center"><i>"Build things. Break things. Learn. Repeat. 🚀"</i></p>
