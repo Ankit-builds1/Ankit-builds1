@@ -88,14 +88,12 @@ I'm **Ankit Dash**, a DAML (Data Analytics & Machine Learning) student from **Od
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-builds1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-builds1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-builds1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-builds1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ankit-builds1&icon=2&color=3" />
+  <img src="https://streak-stats.demolab.com?user=Ankit-builds1&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 <p align="center"><i>"Build things. Break things. Learn. Repeat. 🚀"</i></p>
