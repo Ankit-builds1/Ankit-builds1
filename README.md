@@ -43,17 +43,6 @@ I'm **Ankit Dash**, a DAML (Data Analytics & Machine Learning) student from **Od
 > Detects image copy-paste forgeries using a hybrid EfficientNetB4 + Vision Transformer + UNet architecture.  
 **Tech:** Python · PyTorch · Computer Vision · Transfer Learning · OpenCV
 
----
-
-### 🧬 Cancer Cell Classification AI
-> AutoML + Transfer Learning system that classifies malignant vs benign cancer cells with high accuracy.  
-**Tech:** Python · TensorFlow · CNN · AutoML
-
----
-
-### 🔬 Research AI
-> Fully automated research assistant that summarizes papers and generates insights using LLMs.  
-**Tech:** Next.js · Python · OpenAI API · Deep Learning
 
 ---
 
