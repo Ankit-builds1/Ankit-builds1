@@ -59,20 +59,13 @@ Ensemble pipeline (Random Forest + XGBoost) classifying malware from image-conve
 </td>
 <td width="50%" valign="top">
 
-<h3>🖼️ <a href="https://github.com/Ankit-builds1/cmfd-efficientnetb4-vit-unet">Copy-Move Forgery Detection</a></h3>
-
-Detects copy-paste image forgeries via a hybrid **EfficientNetB4 + Vision Transformer + UNet** — CNN feature extraction fused with transformer attention for forged-region localization.
-
-<img src="https://img.shields.io/badge/Architecture-EfficientNetB4+ViT+UNet-FF6F00?style=flat-square"/>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>😴 Sleep Quality & Stage Detection <sup>🔧 in progress</sup></h3>
+<h3>😴 Sleep Quality & Stage Detection <sup>🔧 Completed</sup></h3>
 
 Multi-modal deep learning system fusing physiological signals with generative AI to detect sleep stages and assess sleep quality.
 
