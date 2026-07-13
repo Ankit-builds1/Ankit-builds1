@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">CyberWatch AI project card</title>
+  <desc id="desc">Six local machine-learning pipelines for cybercrime detection</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00C7B7"/>
+      <stop offset="1" stop-color="#7B2FF7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#00C7B7" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="492" height="192" rx="16" fill="#0d1117" stroke="url(#border)" stroke-width="3"/>
+  <rect x="3" y="3" width="489" height="189" rx="14" fill="url(#glow)"/>
+  <circle cx="47" cy="45" r="25" fill="#211737" stroke="#7B2FF7" stroke-width="2"/>
+  <path d="M31 45c7-12 25-12 32 0-7 12-25 12-32 0zm16-10a10 10 0 100 20 10 10 0 000-20zm0 5a5 5 0 110 10 5 5 0 010-10z" fill="#b48cff"/>
+  <text x="84" y="42" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">CyberWatch AI</text>
+  <text x="84" y="63" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Ankit-builds1 / machine-learning security</text>
+  <text x="28" y="98" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="15">Docker-first local CLI with six ML pipelines for phishing,</text>
+  <text x="28" y="119" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="15">network threats, malware, harmful text, and anomalies.</text>
+  <rect x="28" y="139" width="104" height="25" rx="12.5" fill="#0f2b2b" stroke="#00C7B7"/>
+  <text x="80" y="156" text-anchor="middle" fill="#67e8dc" font-family="Segoe UI,Arial,sans-serif" font-size="12">97.14% ACCURACY</text>
+  <rect x="140" y="139" width="92" height="25" rx="12.5" fill="#211737" stroke="#7B2FF7"/>
+  <text x="186" y="156" text-anchor="middle" fill="#b48cff" font-family="Segoe UI,Arial,sans-serif" font-size="12">6 PIPELINES</text>
+  <text x="467" y="158" text-anchor="end" fill="#67e8dc" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">OPEN REPOSITORY →</text>
+</svg>

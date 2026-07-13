@@ -1,45 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:7B2FF7&height=220&section=header&text=Ankit%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20in%20Training&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:7B2FF7&height=220&section=header&text=Ankit%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%2B%20Cybersecurity%20Engineer&descAlignY=55&descSize=20" width="100%" alt="Ankit Dash — AI/ML and Cybersecurity Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&height=40&lines=Building+AI+systems+that+actually+work;Deep+Learning+%7C+Computer+Vision+%7C+GenAI;91%25+acc.+malware+classifier+%F0%9F%9B%A1%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=720&height=45&lines=AI%2FML+Engineer+Intern+at+Labmentix;Building+local-first+AI+security+tools;Machine+Learning+%7C+Deep+Learning+%7C+Cybersecurity;Turning+research+into+working+systems" alt="Animated introduction"/>
 
 <br>
 
-<a href="https://ankit-builds1.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ankitdash-edu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:005ankitdash@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://ankit-builds1-github-io.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/ankitdash-edu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:005ankitdash@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Ankit-builds1&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ankit-builds1&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer coding animation">
 
-I'm a **DAML (Data Analytics & Machine Learning)** student from **Odisha, India 🇮🇳**, building AI systems that solve real problems — not just notebooks that run once and get forgotten.
+I'm a final-year **Data Analytics & Machine Learning** student from **Odisha, India 🇮🇳**, currently working as an **AI/ML Engineer Intern at Labmentix**.
+
+I build practical machine-learning and cybersecurity systems that move beyond notebooks—from local AI privacy tools and Docker-first security CLIs to deep-learning pipelines for healthcare data. I enjoy turning research ideas into tools people can clone, run, test, and understand.
 
 ```python
 class AnkitDash:
-    def __init__(self):
-        self.role = "AI/ML Engineer in Training"
-        self.focus = ["Deep Learning", "Computer Vision", "Generative AI"]
-        self.currently_building = "Sleep Quality & Stage Detection (Multi-Modal DL + GenAI)"
-        self.open_to = ["Internships", "ML/AI collabs", "Freelance AI work"]
-        self.fuel = "coffee + debugging + late-night motivation ☕"
+    role = "AI/ML Engineer Intern @ Labmentix"
+    identity = "AI/ML + Cybersecurity Engineer"
+    focus = [
+        "Applied Machine Learning",
+        "Deep Learning",
+        "Local-First AI",
+        "Cybersecurity",
+    ]
+    currently_building = "Reliable AI systems with real-world interfaces"
+    open_to = ["AI/ML opportunities", "Security projects", "Collaboration"]
 
-    def ask_me_about(self):
-        return "Python, ML roadmaps, beginner → intermediate AI journey"
+    def approach(self):
+        return "Learn deeply. Build clearly. Verify everything."
 ```
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Current_Role-AI%2FML_Engineer_Intern-00C7B7?style=for-the-badge" alt="AI/ML Engineer Intern"/>
+<img src="https://img.shields.io/badge/Focus-AI_%2B_Cybersecurity-7B2FF7?style=for-the-badge" alt="AI and Cybersecurity"/>
+<img src="https://img.shields.io/badge/Deployment-Docker_%2B_Local_CLI-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and local CLI deployment"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
 
 ## 🚀 Featured Projects
 
@@ -47,73 +63,101 @@ class AnkitDash:
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ <a href="https://github.com/Ankit-builds1/hierarchical-agentic-malware-classification">Hierarchical Agentic Malware Classification</a></h3>
+<a href="https://github.com/Ankit-builds1/shadowai-guardian"><img src="./assets/cards/shadowai-guardian.svg" width="100%" alt="Open ShadowAI Guardian repository"/></a>
 
-Ensemble pipeline (Random Forest + XGBoost) classifying malware from image-converted binaries using 256-bin histogram + entropy features, with confidence thresholding to cut false positives.
+### 🛡️ [ShadowAI Guardian](https://github.com/Ankit-builds1/shadowai-guardian)
 
-<img src="https://img.shields.io/badge/Validation%20Accuracy-91%25-00C7B7?style=flat-square"/>
-<img src="https://img.shields.io/badge/False%20Positives-↓18%25-7B2FF7?style=flat-square"/>
+Local-first AI privacy firewall that scans prompts, repositories, watched folders, and outgoing Git changes before secrets or sensitive data become public.
 
-<img src="https://skillicons.dev/icons?i=python,sklearn"/>
+<img src="https://img.shields.io/badge/Privacy-Local_First-00C7B7?style=flat-square" alt="Local-first privacy"/>
+<img src="https://img.shields.io/badge/Interface-Docker_CLI-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker CLI"/>
+<img src="https://img.shields.io/badge/Protection-Secret_Leak_Guard-7B2FF7?style=flat-square" alt="Secret leak protection"/>
+
+<br><br>
+<a href="https://github.com/Ankit-builds1/shadowai-guardian"><img src="https://img.shields.io/badge/Open_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open ShadowAI Guardian repository"/></a>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/Ankit-builds1/Cyberwatch_ai"><img src="./assets/cards/cyberwatch-ai.svg" width="100%" alt="Open CyberWatch AI repository"/></a>
+
+### 🔍 [CyberWatch AI](https://github.com/Ankit-builds1/Cyberwatch_ai)
+
+Docker-first local cybersecurity CLI with six ML pipelines covering phishing, harmful text, network threats, malware families, and anomalous traffic.
+
+<img src="https://img.shields.io/badge/Network_Accuracy-97.14%25-00C7B7?style=flat-square" alt="97.14 percent network intrusion accuracy"/>
+<img src="https://img.shields.io/badge/Pipelines-6_ML_Models-7B2FF7?style=flat-square" alt="Six machine learning pipelines"/>
+<img src="https://img.shields.io/badge/Inference-100%25_Local-111827?style=flat-square" alt="Local inference"/>
+
+<br><br>
+<a href="https://github.com/Ankit-builds1/Cyberwatch_ai"><img src="https://img.shields.io/badge/Open_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open CyberWatch AI repository"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>😴 Sleep Quality & Stage Detection <sup>🔧 Completed</sup></h3>
+<a href="https://github.com/Ankit-builds1/sleep-quality-stage-detection"><img src="./assets/cards/sleep-stage-detection.svg" width="100%" alt="Open Sleep Quality and Stage Detection repository"/></a>
 
-Multi-modal deep learning system fusing physiological signals with generative AI to detect sleep stages and assess sleep quality.
+### 😴 [Sleep Quality & Stage Detection](https://github.com/Ankit-builds1/sleep-quality-stage-detection)
 
-<img src="https://img.shields.io/badge/Status-Building-yellow?style=flat-square"/>
+TCN-based Wake/NREM/REM classification from physiological signals, paired with Mistral 7B for structured clinical sleep-report generation.
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<img src="https://img.shields.io/badge/Validation_Accuracy-87%25-00C7B7?style=flat-square" alt="87 percent validation accuracy"/>
+<img src="https://img.shields.io/badge/Model-TCN_%2B_Mistral_7B-7B2FF7?style=flat-square" alt="TCN and Mistral 7B"/>
+<img src="https://img.shields.io/badge/Stages-Wake_NREM_REM-111827?style=flat-square" alt="Wake NREM and REM stages"/>
+
+<br><br>
+<a href="https://github.com/Ankit-builds1/sleep-quality-stage-detection"><img src="https://img.shields.io/badge/Open_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Sleep Quality and Stage Detection repository"/></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
-<br>
+### Explore More
 
-<div align="center">
+I keep experimenting with machine learning, data science, security engineering, and practical deployment.
 
-**Want to see more?**
-
-<a href="https://github.com/Ankit-builds1?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
+<a href="https://github.com/Ankit-builds1?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories"/></a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
+
+## ⚡ Keep Building
+
+<div align="center">
+
+<img src="./assets/luffy-gear-5.gif" width="760" alt="Luffy Gear 5 transformation — keep pushing beyond limits"/>
+
+<br>
+
+<sub><i>Break limits. Learn faster. Build stronger.</i></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,fastapi,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Machine learning technologies"/><br>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,git,github,linux&theme=dark" alt="Engineering technologies"/><br>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly&theme=dark" alt="Data technologies"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-builds1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=7B2FF7" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=Ankit-builds1&theme=tokyonight&hide_border=true&background=0d1117&ring=00C7B7&fire=7B2FF7" width="48%"/>
+### Contribution Activity
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-builds1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C7B7&line=7B2FF7&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-builds1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C7B7&line=7B2FF7&point=ffffff" width="97%" alt="Ankit's GitHub activity graph"/>
 
 </div>
 
@@ -121,18 +165,18 @@ Multi-modal deep learning system fusing physiological signals with generative AI
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/github-contribution-grid-snake.svg" width="97%"/>
+<img src="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/github-contribution-grid-snake.svg" width="97%" alt="Animated contribution snake"/>
 
-<sub>👆 Animated snake eating my contribution graph — see setup note below to activate this</sub>
+<sub>One commit at a time.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
 
 <div align="center">
 
-<i>Build things. Break things. Learn. Repeat. 🚀</i>
+<i>Build things. Break limits. Learn. Repeat. 🚀</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C7B7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C7B7&height=120&section=footer" width="100%" alt="Teal and purple footer"/>
 
 </div>

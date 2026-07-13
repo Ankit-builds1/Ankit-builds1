@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">ShadowAI Guardian project card</title>
+  <desc id="desc">Local-first privacy firewall and secret leak protection</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00C7B7"/>
+      <stop offset="1" stop-color="#7B2FF7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#7B2FF7" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="492" height="192" rx="16" fill="#0d1117" stroke="url(#border)" stroke-width="3"/>
+  <rect x="3" y="3" width="489" height="189" rx="14" fill="url(#glow)"/>
+  <circle cx="47" cy="45" r="25" fill="#13242a" stroke="#00C7B7" stroke-width="2"/>
+  <path d="M47 26l15 6v11c0 11-6 19-15 23-9-4-15-12-15-23V32l15-6zm0 8l-8 3v7c0 6 3 11 8 14 5-3 8-8 8-14v-7l-8-3z" fill="#00C7B7"/>
+  <text x="84" y="42" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">ShadowAI Guardian</text>
+  <text x="84" y="63" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Ankit-builds1 / cybersecurity</text>
+  <text x="28" y="98" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="15">Local-first AI privacy firewall for prompts, Git changes,</text>
+  <text x="28" y="119" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="15">repositories, secrets, and sensitive data.</text>
+  <rect x="28" y="139" width="88" height="25" rx="12.5" fill="#0f2b2b" stroke="#00C7B7"/>
+  <text x="72" y="156" text-anchor="middle" fill="#67e8dc" font-family="Segoe UI,Arial,sans-serif" font-size="12">LOCAL FIRST</text>
+  <rect x="124" y="139" width="82" height="25" rx="12.5" fill="#151f38" stroke="#2496ED"/>
+  <text x="165" y="156" text-anchor="middle" fill="#78bff2" font-family="Segoe UI,Arial,sans-serif" font-size="12">DOCKER CLI</text>
+  <text x="467" y="158" text-anchor="end" fill="#b48cff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">OPEN REPOSITORY →</text>
+</svg>
