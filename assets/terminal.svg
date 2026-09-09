@@ -59,6 +59,12 @@
         <text x="46" y="166" fill="#7B2FF7">role</text>
         <text x="200" y="166" fill="#c9d1d9">AI/ML Engineer Intern @ Labmentix</text>
       </g>
+
+       <g opacity="1">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.24;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+        <text x="46" y="166" fill="#7B2FF7">role</text>
+        <text x="200" y="166" fill="#c9d1d9">GEN AI Engineer Intern @ Infotact solution</text>
+      </g>
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.27;0.29;0.94;0.97" dur="16s" repeatCount="indefinite"/>
         <text x="46" y="194" fill="#7B2FF7">location</text>
