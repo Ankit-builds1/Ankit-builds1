@@ -99,7 +99,7 @@ Temporal Convolutional Network classifying Wake / NREM / REM from physiological 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ankit-builds1/tourism-experience-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-builds1&repo=tourism-experience-analytics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=7B2FF7" width="100%" alt="Tourism Experience Analytics"/></a>
+<a href="https://github.com/Ankit-builds1/tourism-experience-analytics"><img src="./assets/cards/tourism-analytics.svg" width="100%" alt="Tourism Experience Analytics"/></a>
 
 ### 🌍 [Tourism Experience Analytics](https://github.com/Ankit-builds1/tourism-experience-analytics)
 
@@ -165,18 +165,13 @@ Regression, classification and recommendation over 52,930 transactions. Notable 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-builds1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C7B7&line=7B2FF7&point=ffffff&area=true" width="97%" alt="Contribution activity graph"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-builds1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=7B2FF7&text_color=c9d1d9&include_all_commits=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-builds1&hide_border=true&background=0d1117&stroke=1f2b3a&ring=00C7B7&fire=7B2FF7&currStreakLabel=00C7B7&sideLabels=c9d1d9&dates=8b949e" height="165" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-builds1&hide_border=true&background=0d1117&stroke=1f2b3a&ring=00C7B7&fire=7B2FF7&currStreakLabel=00C7B7&sideLabels=c9d1d9&dates=8b949e" height="170" alt="Contribution streak"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/github-contribution-grid-snake.svg" width="97%" alt="Animated contribution snake"/>
+<img src="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/github-contribution-grid-snake.svg" width="97%" alt="Animated contribution snake eating the contribution graph"/>
 
-<sub>One commit at a time.</sub>
+<sub>Generated nightly by a GitHub Action into the <code>output</code> branch — no external service.</sub>
 
 </div>
 
