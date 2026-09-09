@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="orbTitle orbDesc">
+  <title id="orbTitle">Technology stack orbit</title>
+  <desc id="orbDesc">Three rotating orbital rings of technologies around a central AI and security core: machine learning frameworks on the inner ring, engineering and deployment tools on the middle ring, and data libraries on the outer ring.</desc>
+
+  <defs>
+    <linearGradient id="oBrand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00C7B7"/>
+      <stop offset="1" stop-color="#7B2FF7"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00C7B7" stop-opacity="0.55"/>
+      <stop offset="0.6" stop-color="#7B2FF7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgGlow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#132030" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="760" height="430" rx="18" fill="url(#bgGlow)"/>
+
+  <!-- orbit paths -->
+  <g fill="none" stroke="#1f2b3a" stroke-width="1.5">
+    <circle cx="380" cy="215" r="90"/>
+    <circle cx="380" cy="215" r="138"/>
+    <circle cx="380" cy="215" r="184"/>
+  </g>
+  <circle cx="380" cy="215" r="90" fill="none" stroke="#00C7B7" stroke-width="1.5"
+          stroke-dasharray="6 12" opacity="0.5">
+    <animateTransform attributeName="transform" type="rotate" from="0 380 215" to="360 380 215" dur="24s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="215" r="184" fill="none" stroke="#7B2FF7" stroke-width="1.5"
+          stroke-dasharray="4 14" opacity="0.45">
+    <animateTransform attributeName="transform" type="rotate" from="360 380 215" to="0 380 215" dur="34s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- pulsing core -->
+  <circle cx="380" cy="215" r="72" fill="url(#core)">
+    <animate attributeName="r" values="66;76;66" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="215" r="52" fill="#0d1117" stroke="url(#oBrand)" stroke-width="2.5"/>
+  <text x="380" y="209" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif"
+        font-size="15" font-weight="700" fill="#00C7B7">AI / ML</text>
+  <text x="380" y="230" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif"
+        font-size="15" font-weight="700" fill="#b48cff">SECURITY</text>
+
+  <!-- INNER RING — 24s clockwise -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 380 215" to="360 380 215" dur="24s" repeatCount="indefinite"/>
+    <g transform="translate(470,215)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <circle r="25" fill="#0f2b2b" stroke="#00C7B7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#67e8dc">Python</text>
+    </g></g>
+    <g transform="translate(380,305)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <circle r="25" fill="#0f2b2b" stroke="#00C7B7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#67e8dc">PyTorch</text>
+    </g></g>
+    <g transform="translate(290,215)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <circle r="25" fill="#0f2b2b" stroke="#00C7B7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" fill="#67e8dc">TensorFlow</text>
+    </g></g>
+    <g transform="translate(380,125)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <circle r="25" fill="#0f2b2b" stroke="#00C7B7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#67e8dc">sklearn</text>
+    </g></g>
+  </g>
+
+  <!-- MIDDLE RING — 30s counter-clockwise -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 380 215" to="0 380 215" dur="30s" repeatCount="indefinite"/>
+    <g transform="translate(478,313)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="-360 0 0" to="0 0 0" dur="30s" repeatCount="indefinite"/>
+      <circle r="25" fill="#151f38" stroke="#41A6F6" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#78bff2">Docker</text>
+    </g></g>
+    <g transform="translate(282,313)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="-360 0 0" to="0 0 0" dur="30s" repeatCount="indefinite"/>
+      <circle r="25" fill="#151f38" stroke="#41A6F6" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#78bff2">FastAPI</text>
+    </g></g>
+    <g transform="translate(282,117)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="-360 0 0" to="0 0 0" dur="30s" repeatCount="indefinite"/>
+      <circle r="25" fill="#151f38" stroke="#41A6F6" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#78bff2">Linux</text>
+    </g></g>
+    <g transform="translate(478,117)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="-360 0 0" to="0 0 0" dur="30s" repeatCount="indefinite"/>
+      <circle r="25" fill="#151f38" stroke="#41A6F6" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#78bff2">Git</text>
+    </g></g>
+  </g>
+
+  <!-- OUTER RING — 40s clockwise -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 380 215" to="360 380 215" dur="40s" repeatCount="indefinite"/>
+    <g transform="translate(564,215)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+      <circle r="24" fill="#1d1630" stroke="#7B2FF7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#b48cff">NumPy</text>
+    </g></g>
+    <g transform="translate(380,399)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+      <circle r="24" fill="#1d1630" stroke="#7B2FF7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#b48cff">Pandas</text>
+    </g></g>
+    <g transform="translate(196,215)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+      <circle r="24" fill="#1d1630" stroke="#7B2FF7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#b48cff">Plotly</text>
+    </g></g>
+    <g transform="translate(380,31)"><g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+      <circle r="24" fill="#1d1630" stroke="#7B2FF7" stroke-width="2"/>
+      <text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#b48cff">SQL</text>
+    </g></g>
+  </g>
+</svg>

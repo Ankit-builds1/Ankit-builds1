@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="356" viewBox="0 0 900 356" role="img" aria-labelledby="termTitle termDesc">
+  <title id="termTitle">Terminal session introducing Ankit Dash</title>
+  <desc id="termDesc">An animated terminal that types the command whoami --verbose and prints Ankit Dash's role, location, focus areas and working principle.</desc>
+
+  <defs>
+    <linearGradient id="tBrand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00C7B7"/>
+      <stop offset="1" stop-color="#7B2FF7"/>
+    </linearGradient>
+    <radialGradient id="tGlow" cx="0.15" cy="0" r="1.1">
+      <stop offset="0" stop-color="#00C7B7" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="typeClip">
+      <rect x="28" y="76" width="330" height="30">
+        <animate attributeName="width" values="0;330;330;330;0"
+                 keyTimes="0;0.13;0.92;0.97;1" dur="16s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="897" height="353" rx="14" fill="#0d1117" stroke="url(#tBrand)" stroke-width="3"/>
+  <rect x="3" y="3" width="894" height="350" rx="12" fill="url(#tGlow)"/>
+
+  <!-- title bar -->
+  <path d="M3 15a12 12 0 0 1 12-12h870a12 12 0 0 1 12 12v29H3z" fill="#161b22"/>
+  <circle cx="30" cy="24" r="6" fill="#ff5f57"/>
+  <circle cx="52" cy="24" r="6" fill="#febc2e"/>
+  <circle cx="74" cy="24" r="6" fill="#28c840"/>
+  <text x="450" y="29" text-anchor="middle" font-family="Consolas,Menlo,monospace"
+        font-size="13" fill="#8b949e">ankit@github — zsh — 90×24</text>
+  <line x1="3" y1="44" x2="897" y2="44" stroke="#21262d" stroke-width="1.5"/>
+
+  <g font-family="Consolas,Menlo,monospace" font-size="15">
+
+    <!-- prompt + typed command -->
+    <text x="28" y="98" fill="#00C7B7" font-weight="700">ankit@github</text>
+    <text x="140" y="98" fill="#8b949e">:</text>
+    <text x="150" y="98" fill="#41A6F6">~</text>
+    <text x="164" y="98" fill="#8b949e">$</text>
+    <g clip-path="url(#typeClip)">
+      <text x="180" y="98" fill="#f0f6fc">whoami --verbose</text>
+    </g>
+    <rect x="180" y="84" width="9" height="18" fill="#00C7B7">
+      <animate attributeName="x" values="180;312;312;312;180"
+               keyTimes="0;0.13;0.92;0.97;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- output rows -->
+    <g>
+      <g opacity="1">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.17;0.19;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+        <text x="46" y="138" fill="#7B2FF7">name</text>
+        <text x="200" y="138" fill="#f0f6fc">Ankit Dash</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.24;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+        <text x="46" y="166" fill="#7B2FF7">role</text>
+        <text x="200" y="166" fill="#c9d1d9">AI/ML Engineer Intern @ Labmentix</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.27;0.29;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+        <text x="46" y="194" fill="#7B2FF7">location</text>
+        <text x="200" y="194" fill="#c9d1d9">Odisha, India</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.34;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+        <text x="46" y="222" fill="#7B2FF7">focus</text>
+        <text x="200" y="222" fill="#c9d1d9">Applied ML · Deep Learning · Cybersecurity</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.37;0.39;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+        <text x="46" y="250" fill="#7B2FF7">building</text>
+        <text x="200" y="250" fill="#c9d1d9">Local-first AI security tooling</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.44;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+        <text x="46" y="278" fill="#7B2FF7">principle</text>
+        <text x="200" y="278" fill="#67e8dc">Learn deeply. Build clearly. Verify everything.</text>
+      </g>
+    </g>
+
+    <!-- next prompt -->
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.48;0.5;0.94;0.97" dur="16s" repeatCount="indefinite"/>
+      <text x="28" y="322" fill="#00C7B7" font-weight="700">ankit@github</text>
+      <text x="140" y="322" fill="#8b949e">:</text>
+      <text x="150" y="322" fill="#41A6F6">~</text>
+      <text x="164" y="322" fill="#8b949e">$</text>
+      <rect x="180" y="308" width="9" height="18" fill="#00C7B7">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>

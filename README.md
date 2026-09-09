@@ -1,169 +1,178 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:7B2FF7&height=220&section=header&text=Ankit%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%2B%20Cybersecurity%20Engineer&descAlignY=55&descSize=20" width="100%" alt="Ankit Dash — AI/ML and Cybersecurity Engineer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=720&height=45&lines=AI%2FML+Engineer+Intern+at+Labmentix;Building+local-first+AI+security+tools;Machine+Learning+%7C+Deep+Learning+%7C+Cybersecurity;Turning+research+into+working+systems" alt="Animated introduction"/>
+<img src="./assets/hero.svg" width="100%" alt="Ankit Dash — AI/ML and Cybersecurity Engineer"/>
 
 <br>
 
-<a href="https://ankit-builds1-github-io.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/ankitdash-edu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:005ankitdash@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Ankit-builds1&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://ankit-builds1-github-io.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/ankitdash-edu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:005ankitdash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Ankit-builds1?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ankit-builds1&style=for-the-badge&color=7B2FF7&label=VIEWS" alt="Profile views"/>
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
+<div align="center">
 
-## 🧠 About Me
+<img src="./assets/terminal.svg" width="88%" alt="Terminal session: whoami --verbose, printing Ankit Dash's role, location, focus and working principle"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer coding animation">
+</div>
 
-I'm a final-year **Data Analytics & Machine Learning** student from **Odisha, India 🇮🇳**, currently working as an **AI/ML Engineer Intern at Labmentix**.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-I build practical machine-learning and cybersecurity systems that move beyond notebooks—from local AI privacy tools and Docker-first security CLIs to deep-learning pipelines for healthcare data. I enjoy turning research ideas into tools people can clone, run, test, and understand.
+## 🧠 About
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Developer coding animation">
+
+Final-year **Data Analytics & Machine Learning** student from **Odisha, India 🇮🇳**, currently an **AI/ML Engineer Intern at Labmentix**.
+
+I build machine-learning and cybersecurity systems that leave the notebook — local AI privacy tooling, Docker-first security CLIs, and deep-learning pipelines for healthcare signals. My bias is toward things people can clone, run, and verify for themselves.
+
+I care as much about **what a model doesn't do** as what it does. Every number I publish sits next to its baseline.
 
 ```python
 class AnkitDash:
-    role = "AI/ML Engineer Intern @ Labmentix"
+    role     = "AI/ML Engineer Intern @ Labmentix"
     identity = "AI/ML + Cybersecurity Engineer"
-    focus = [
-        "Applied Machine Learning",
-        "Deep Learning",
-        "Local-First AI",
-        "Cybersecurity",
-    ]
-    currently_building = "Reliable AI systems with real-world interfaces"
-    open_to = ["AI/ML opportunities", "Security projects", "Collaboration"]
+    focus    = ["Applied ML", "Deep Learning", "Local-First AI", "Cybersecurity"]
+    building = "Reliable AI systems with real interfaces"
+    open_to  = ["AI/ML roles", "Security projects", "Collaboration"]
 
-    def approach(self):
+    def approach(self) -> str:
         return "Learn deeply. Build clearly. Verify everything."
 ```
 
 <br clear="right"/>
 
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📈 Shipped, Measured
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Current_Role-AI%2FML_Engineer_Intern-00C7B7?style=for-the-badge" alt="AI/ML Engineer Intern"/>
-<img src="https://img.shields.io/badge/Focus-AI_%2B_Cybersecurity-7B2FF7?style=for-the-badge" alt="AI and Cybersecurity"/>
-<img src="https://img.shields.io/badge/Deployment-Docker_%2B_Local_CLI-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and local CLI deployment"/>
+<img src="./assets/metrics.svg" width="92%" alt="97.14 percent network intrusion accuracy, 87 percent sleep stage validation accuracy, 6 ML pipelines shipped, 100 percent local inference"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ankit-builds1/shadowai-guardian"><img src="./assets/cards/shadowai-guardian.svg" width="100%" alt="Open ShadowAI Guardian repository"/></a>
+<a href="https://github.com/Ankit-builds1/shadowai-guardian"><img src="./assets/cards/shadowai-guardian.svg" width="100%" alt="ShadowAI Guardian"/></a>
 
 ### 🛡️ [ShadowAI Guardian](https://github.com/Ankit-builds1/shadowai-guardian)
 
-Local-first AI privacy firewall that scans prompts, repositories, watched folders, and outgoing Git changes before secrets or sensitive data become public.
+A local-first AI privacy firewall. Scans prompts, repositories, watched folders and outgoing Git changes **before** secrets or sensitive data ever leave the machine.
 
-<img src="https://img.shields.io/badge/Privacy-Local_First-00C7B7?style=flat-square" alt="Local-first privacy"/>
-<img src="https://img.shields.io/badge/Interface-Docker_CLI-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker CLI"/>
-<img src="https://img.shields.io/badge/Protection-Secret_Leak_Guard-7B2FF7?style=flat-square" alt="Secret leak protection"/>
-
-<br><br>
-<a href="https://github.com/Ankit-builds1/shadowai-guardian"><img src="https://img.shields.io/badge/Open_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open ShadowAI Guardian repository"/></a>
+`Local-First` · `Docker CLI` · `Secret Leak Guard`
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ankit-builds1/Cyberwatch_ai"><img src="./assets/cards/cyberwatch-ai.svg" width="100%" alt="Open CyberWatch AI repository"/></a>
+<a href="https://github.com/Ankit-builds1/Cyberwatch_ai"><img src="./assets/cards/cyberwatch-ai.svg" width="100%" alt="CyberWatch AI"/></a>
 
 ### 🔍 [CyberWatch AI](https://github.com/Ankit-builds1/Cyberwatch_ai)
 
-Docker-first local cybersecurity CLI with six ML pipelines covering phishing, harmful text, network threats, malware families, and anomalous traffic.
+A Docker-first cybersecurity CLI running six ML pipelines — phishing, harmful text, network intrusion, malware families and anomalous traffic — entirely on-device.
 
-<img src="https://img.shields.io/badge/Network_Accuracy-97.14%25-00C7B7?style=flat-square" alt="97.14 percent network intrusion accuracy"/>
-<img src="https://img.shields.io/badge/Pipelines-6_ML_Models-7B2FF7?style=flat-square" alt="Six machine learning pipelines"/>
-<img src="https://img.shields.io/badge/Inference-100%25_Local-111827?style=flat-square" alt="Local inference"/>
-
-<br><br>
-<a href="https://github.com/Ankit-builds1/Cyberwatch_ai"><img src="https://img.shields.io/badge/Open_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open CyberWatch AI repository"/></a>
+`97.14% Accuracy` · `6 Pipelines` · `100% Local`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ankit-builds1/sleep-quality-stage-detection"><img src="./assets/cards/sleep-stage-detection.svg" width="100%" alt="Open Sleep Quality and Stage Detection repository"/></a>
+<a href="https://github.com/Ankit-builds1/sleep-quality-stage-detection"><img src="./assets/cards/sleep-stage-detection.svg" width="100%" alt="Sleep Quality and Stage Detection"/></a>
 
 ### 😴 [Sleep Quality & Stage Detection](https://github.com/Ankit-builds1/sleep-quality-stage-detection)
 
-TCN-based Wake/NREM/REM classification from physiological signals, paired with Mistral 7B for structured clinical sleep-report generation.
+Temporal Convolutional Network classifying Wake / NREM / REM from physiological signals, paired with Mistral 7B for structured clinical sleep reports.
 
-<img src="https://img.shields.io/badge/Validation_Accuracy-87%25-00C7B7?style=flat-square" alt="87 percent validation accuracy"/>
-<img src="https://img.shields.io/badge/Model-TCN_%2B_Mistral_7B-7B2FF7?style=flat-square" alt="TCN and Mistral 7B"/>
-<img src="https://img.shields.io/badge/Stages-Wake_NREM_REM-111827?style=flat-square" alt="Wake NREM and REM stages"/>
-
-<br><br>
-<a href="https://github.com/Ankit-builds1/sleep-quality-stage-detection"><img src="https://img.shields.io/badge/Open_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Sleep Quality and Stage Detection repository"/></a>
+`87% Validation` · `TCN + Mistral 7B` · `Healthcare AI`
 
 </td>
-<td width="50%" valign="middle" align="center">
+<td width="50%" valign="top">
 
-### Explore More
+<a href="https://github.com/Ankit-builds1/tourism-experience-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-builds1&repo=tourism-experience-analytics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=7B2FF7" width="100%" alt="Tourism Experience Analytics"/></a>
 
-I keep experimenting with machine learning, data science, security engineering, and practical deployment.
+### 🌍 [Tourism Experience Analytics](https://github.com/Ankit-builds1/tourism-experience-analytics)
 
-<a href="https://github.com/Ankit-builds1?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories"/></a>
+Regression, classification and recommendation over 52,930 transactions. Notable for what it **rejects**: a leakage bug that drove XGBoost to R² = −0.64, and a collaborative filter that scored at chance.
+
+`+22 pts vs Baseline` · `Leakage-Free Encoding` · `CI Verified`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
-
-## ⚡ Keep Building
-
-<div align="center">
-
-<img src="./assets/luffy-gear-5.gif" width="760" alt="Luffy Gear 5 transformation — keep pushing beyond limits"/>
+<details>
+<summary><b>🔬 How I approach a modelling problem</b> — click to expand</summary>
 
 <br>
 
-<sub><i>Break limits. Learn faster. Build stronger.</i></sub>
+| Step | What I actually do |
+|---|---|
+| **1. Baseline first** | Before any model, compute the trivial predictor — majority class, train mean, random ranking. Every later number gets reported against it. |
+| **2. Measure the ceiling** | Decompose the variance. If a perfect model can only reach R² = 0.26, an R² of 0.14 is 56% of the achievable signal, not a failure. |
+| **3. Assume leakage** | Target encodings leak in subtle ways. Leave-one-out is `(S − r)/(n − 1)` — a decreasing function of the row's own target. I check train/test correlation signs automatically. |
+| **4. Converge, then stop** | When six independent model families land within one point of each other, that's an *information* limit. More tuning is wasted effort. |
+| **5. Report the failures** | A model built, evaluated and rejected with a diagnosis is worth more than a clean list of scores. |
 
-</div>
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
+
+<table>
+<tr>
+<td width="52%" align="center">
+
+<img src="./assets/orbit.svg" width="100%" alt="Rotating orbit of technologies around an AI and security core"/>
+
+</td>
+<td width="48%" align="center">
+
+**Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn"/>
+
+**Engineering & Deployment**
+
+<img src="https://skillicons.dev/icons?i=docker,fastapi,linux,git&theme=dark" alt="Docker, FastAPI, Linux, Git"/>
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,plotly,sqlite&theme=dark" alt="NumPy, Pandas, Plotly, SQLite"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Ships_as-Docker_%2B_Local_CLI-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Ships as Docker and local CLI"/>
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Machine learning technologies"/><br>
-<img src="https://skillicons.dev/icons?i=docker,fastapi,git,github,linux&theme=dark" alt="Engineering technologies"/><br>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly&theme=dark" alt="Data technologies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-builds1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C7B7&line=7B2FF7&point=ffffff&area=true" width="97%" alt="Contribution activity graph"/>
 
-</div>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-builds1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=7B2FF7&text_color=c9d1d9&include_all_commits=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-builds1&hide_border=true&background=0d1117&stroke=1f2b3a&ring=00C7B7&fire=7B2FF7&currStreakLabel=00C7B7&sideLabels=c9d1d9&dates=8b949e" height="165" alt="Contribution streak"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-### Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-builds1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C7B7&line=7B2FF7&point=ffffff" width="97%" alt="Ankit's GitHub activity graph"/>
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/github-contribution-grid-snake.svg" width="97%" alt="Animated contribution snake"/>
 
@@ -171,12 +180,32 @@ I keep experimenting with machine learning, data science, security engineering, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%" alt="Section divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ⚡ Keep Building
 
 <div align="center">
 
-<i>Build things. Break limits. Learn. Repeat. 🚀</i>
+<img src="./assets/luffy-gear-5.gif" width="720" alt="Luffy Gear 5 transformation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C7B7&height=120&section=footer" width="100%" alt="Teal and purple footer"/>
+<br>
+
+<sub><i>Break limits. Learn faster. Build stronger.</i></sub>
+
+<br><br>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br>
+
+<b>Open to AI/ML roles, security projects and collaboration.</b>
+
+<br>
+
+<a href="mailto:005ankitdash@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-00C7B7?style=for-the-badge&logoColor=white" alt="Get in touch"/></a>
+
+<br><br>
+
+<sub>Every banner, terminal, orbit and metric ring on this page is a hand-written animated SVG in <a href="./assets"><code>/assets</code></a> — no screenshots, no third-party render services.</sub>
 
 </div>
