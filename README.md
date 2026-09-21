@@ -14,6 +14,13 @@
 <a href="https://github.com/Ankit-builds1?tab=followers"><img src="https://img.shields.io/github/followers/Ankit-builds1?style=for-the-badge&color=4f46e5&labelColor=0f172a&logo=github&logoColor=white" alt="Followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=Ankit-builds1&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/📍-Cuttack,%20Odisha,%20India-0f172a?style=flat-square&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/🎓-Final%20Year%20B.Tech%20CSE-0f172a?style=flat-square&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/💼-2%20AI%20Internships-0f172a?style=flat-square&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/🗣️-English%20·%20Hindi%20·%20Odia-0f172a?style=flat-square&labelColor=1e293b"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
@@ -216,6 +223,15 @@ Python · NVIDIA API
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
 
+## ⚡ &nbsp;Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>↑ This list rewrites itself every 6 hours from my public GitHub events.</sub>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
+
 ## 💼 &nbsp;Experience &amp; Education
 
 <table>
@@ -265,6 +281,14 @@ MLOps · Deployment · Agentic AI systems
 
 </div>
 
+### 🧊 &nbsp;My year in 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar"/>
+
+</div>
+
 ### 🐍 &nbsp;Watch the snake eat my contributions
 
 <div align="center">
@@ -276,6 +300,28 @@ MLOps · Deployment · Agentic AI systems
 </picture>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
+
+<details>
+<summary><b>🥚 &nbsp;You scrolled this far — here's something for you</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke"/>
+
+</div>
+
+**A few things the repos don't say:**
+
+- 🧪 &nbsp;I benchmark before I optimize — every accuracy number in this README came from a held-out test set, not a training curve.
+- 🔒 &nbsp;Two of my projects run entirely offline by design. If a tool needs to phone home to work, I want to know why.
+- 🤖 &nbsp;My favourite bug so far: a SLAM robot that learned to spin in place because rotating technically counted as "exploring."
+- ☕ &nbsp;Debugging ritual — read the stack trace twice, then rubber-duck it out loud. Works more often than it should.
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
 
