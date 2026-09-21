@@ -197,20 +197,17 @@ MLOps · Deployment · Agentic AI systems
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankit-builds1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-builds1&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-builds1&theme=tokyonight" width="98%" alt="Profile summary"/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-builds1&theme=tokyonight" alt="Top languages by repo"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-builds1&theme=tokyonight" alt="Top languages by commit"/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-builds1&theme=tokyonight" alt="Stats"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankit-builds1&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Ankit-builds1&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit-builds1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-builds1&bg_color=0D1117&color=C9D1D9&line=4F46E5&point=06B6D4&area=true&area_color=4F46E5&hide_border=true" width="100%" alt="Contribution activity graph"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Ankit-builds1&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
 
 </div>
 
