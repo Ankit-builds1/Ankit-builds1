@@ -40,6 +40,41 @@ class AnkitDash:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
 
+## 🗺️ &nbsp;How My Work Fits Together
+
+```mermaid
+flowchart LR
+    A["🧠 Ankit Dash"] --> B["Generative &amp; Agentic AI"]
+    A --> C["Deep Learning"]
+    A --> D["AI Security"]
+    A --> E["Robotics &amp; RL"]
+    A --> F["Data &amp; Analytics"]
+
+    B --> B1["OmniSight<br/>GPT-4V UI self-healing"]
+    B --> B2["LLM EDA Agent<br/>autonomous analysis"]
+
+    C --> C1["Sleep Stage Detection<br/>TCN · 87%"]
+    C --> C2["DeepFER<br/>CNN · ResNet34"]
+
+    D --> D1["CyberWatch AI<br/>6 pipelines · 97%"]
+    D --> D2["ShadowAI Guardian<br/>privacy firewall"]
+
+    E --> E1["Autonomous SLAM<br/>PPO · ROS2"]
+
+    F --> F1["Tourism Analytics<br/>52,930 records"]
+    F --> F2["Vaccination Analysis<br/>WHO · Power BI"]
+
+    classDef root fill:#4f46e5,stroke:#818cf8,stroke-width:2px,color:#fff
+    classDef domain fill:#1e293b,stroke:#06b6d4,stroke-width:2px,color:#e2e8f0
+    classDef proj fill:#0f172a,stroke:#475569,color:#cbd5e1
+
+    class A root
+    class B,C,D,E,F domain
+    class B1,B2,C1,C2,D1,D2,E1,F1,F2 proj
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
+
 ## 🧰 &nbsp;Tech Arsenal
 
 <div align="center">
@@ -98,6 +133,8 @@ Terminal-first cybercrime detection with **6 ML pipelines** — phishing, malwar
 
 `97% accuracy` · Python · Scikit-learn · Docker
 
+<img src="https://img.shields.io/github/stars/Ankit-builds1/Cyberwatch_ai?style=flat-square&labelColor=0f172a&color=4f46e5"/> <img src="https://img.shields.io/github/last-commit/Ankit-builds1/Cyberwatch_ai?style=flat-square&labelColor=0f172a&color=06b6d4"/>
+
 </td>
 <td width="50%" valign="top">
 
@@ -106,6 +143,8 @@ Terminal-first cybercrime detection with **6 ML pipelines** — phishing, malwar
 A PPO policy replaces the hand-coded frontier heuristic for robot exploration.
 
 `10.7% faster` `21.9% shorter paths` · ROS2 · Nav2 · Gazebo
+
+<img src="https://img.shields.io/github/stars/Ankit-builds1/autonomous-exploration-learned-slam?style=flat-square&labelColor=0f172a&color=4f46e5"/> <img src="https://img.shields.io/github/last-commit/Ankit-builds1/autonomous-exploration-learned-slam?style=flat-square&labelColor=0f172a&color=06b6d4"/>
 
 </td>
 </tr>
@@ -118,6 +157,8 @@ Wake/NREM/REM classification from physiological signals, with LLM-generated clin
 
 `87% accuracy · SHHS` · TCN · PyTorch · Mistral 7B
 
+<img src="https://img.shields.io/github/stars/Ankit-builds1/sleep-quality-stage-detection?style=flat-square&labelColor=0f172a&color=4f46e5"/> <img src="https://img.shields.io/github/last-commit/Ankit-builds1/sleep-quality-stage-detection?style=flat-square&labelColor=0f172a&color=06b6d4"/>
+
 </td>
 <td width="50%" valign="top">
 
@@ -126,6 +167,8 @@ Wake/NREM/REM classification from physiological signals, with LLM-generated clin
 Local-first privacy firewall — scans prompts, repos and Git changes for secrets before they leave your machine.
 
 Python · CLI · Docker
+
+<img src="https://img.shields.io/github/stars/Ankit-builds1/shadowai-guardian?style=flat-square&labelColor=0f172a&color=4f46e5"/> <img src="https://img.shields.io/github/last-commit/Ankit-builds1/shadowai-guardian?style=flat-square&labelColor=0f172a&color=06b6d4"/>
 
 </td>
 </tr>
@@ -138,6 +181,8 @@ Detects visual UI bugs with a vision-language model and auto-generates PR fixes.
 
 GPT-4V · RPA · Python
 
+<img src="https://img.shields.io/github/stars/Ankit-builds1/omnisight?style=flat-square&labelColor=0f172a&color=4f46e5"/> <img src="https://img.shields.io/github/last-commit/Ankit-builds1/omnisight?style=flat-square&labelColor=0f172a&color=06b6d4"/>
+
 </td>
 <td width="50%" valign="top">
 
@@ -146,6 +191,8 @@ GPT-4V · RPA · Python
 Automated exploratory data analysis driven end-to-end by an LLM agent.
 
 Python · NVIDIA API
+
+<img src="https://img.shields.io/github/stars/Ankit-builds1/llm-eda-agent?style=flat-square&labelColor=0f172a&color=4f46e5"/> <img src="https://img.shields.io/github/last-commit/Ankit-builds1/llm-eda-agent?style=flat-square&labelColor=0f172a&color=06b6d4"/>
 
 </td>
 </tr>
@@ -218,6 +265,18 @@ MLOps · Deployment · Agentic AI systems
 
 </div>
 
+### 🐍 &nbsp;Watch the snake eat my contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/snake.svg" />
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/Ankit-builds1/Ankit-builds1/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
 
 ## 🤝 &nbsp;Let's Build Something
@@ -230,6 +289,10 @@ Always open to collaborating on **generative AI, agentic systems and applied ML*
 <a href="mailto:ankit05dash@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+
+<br/>
 
 <sub>⭐ Thanks for stopping by — feel free to explore my repos and reach out.</sub>
 
