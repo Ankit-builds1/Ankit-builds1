@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Ankit%20Dash&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Building%20systems%2C%20not%20notebooks&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Ankit Dash" />
 
 <a href="https://linkedin.com/in/ankitdash05">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+Intern+%40+Labmentix;Deep+Learning+%C2%B7+Agentic+AI+%C2%B7+Cybersecurity+ML;Final-year+Data+Analytics+%26+ML+student;Open+to+AI%2FML+%26+Data+Science+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+Intern+%40+Labmentix;Gen+AI+Intern+%40+Infotact+Solutions;Generative+AI+%C2%B7+Agentic+AI+%C2%B7+LLM+Systems;RAG+%C2%B7+Multimodal+AI+%C2%B7+Deep+Learning;Open+to+Full-time+Roles+%26+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,18 +23,20 @@
 ```python
 class AnkitDash:
     def __init__(self):
-        self.role     = "AI/ML Engineer Intern @ Labmentix"
+        self.roles    = ["AI/ML Engineer Intern @ Labmentix",
+                         "Gen AI Intern @ Infotact Solutions"]
         self.location = "Cuttack, Odisha, India"
         self.studies  = "Data Analytics & Machine Learning (final year)"
-        self.building = ["local-first AI security tools",
+        self.building = ["generative & agentic AI systems",
+                         "local-first AI security tools",
                          "reinforcement learning for robotics"]
-        self.learning = ["MLOps", "deployment", "agentic AI systems"]
+        self.learning = ["MLOps", "deployment", "multi-agent orchestration"]
 
     def philosophy(self) -> str:
         return "Ship models that run in the real world — documented and reproducible."
 ```
 
-> 💼 &nbsp;**Open to AI/ML Engineer, Data Scientist and Data Analyst roles.**
+> 💼 &nbsp;**Open to full-time roles and internships** — Gen AI / Agentic AI, AI-ML Engineer, Data Scientist and Data Analyst.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt=""/>
 
@@ -57,9 +59,14 @@ class AnkitDash:
 <img src="https://img.shields.io/badge/NLP-06B6D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=flat-square"/>
 
-**AI Systems**
+**Generative &amp; Agentic AI**
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multimodal%20AI-06B6D4?style=flat-square"/>
+<br/>
 <img src="https://img.shields.io/badge/Mistral%207B-FF7000?style=flat-square&logo=mistralai&logoColor=white"/>
 <img src="https://img.shields.io/badge/GPT--4V-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/NVIDIA%20API-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
@@ -217,7 +224,7 @@ MLOps · Deployment · Agentic AI systems
 
 <div align="center">
 
-Always open to collaborating on **AI/ML, deep learning and applied security** projects.
+Always open to collaborating on **generative AI, agentic systems and applied ML** projects.
 
 <a href="https://linkedin.com/in/ankitdash05"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ankit05dash@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
