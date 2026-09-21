@@ -172,14 +172,14 @@ Python · NVIDIA API
 
 Building ML pipelines and data analytics projects, including WHO vaccination analysis with Power BI dashboards.
 
-**🏢 Data Science Intern** — *Infotact Solutions*
+**🏢 GENERATIVE AI Intern** — *Infotact Solutions*
 
 Developed OmniSight, a multimodal UI self-healing and RPA agent using vision-language models.
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 B.Tech / BCA — Data Analytics &amp; Machine Learning**
+**🎓 B.Tech CSE — Data Analytics &amp; Machine Learning**
 
 *Final year · Odisha, India*
 
