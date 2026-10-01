@@ -226,11 +226,11 @@ Python · NVIDIA API
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Ankit-builds1/omnisight/pull/9) in [Ankit-builds1/omnisight](https://github.com/Ankit-builds1/omnisight)
-2. ❌ Closed PR [#10](https://github.com/Ankit-builds1/omnisight/pull/10) in [Ankit-builds1/omnisight](https://github.com/Ankit-builds1/omnisight)
-3. 🗣 Commented on [#10](https://github.com/Ankit-builds1/omnisight/pull/10#issuecomment-5739853359) in [Ankit-builds1/omnisight](https://github.com/Ankit-builds1/omnisight)
-4. 💪 Opened PR [#10](https://github.com/Ankit-builds1/omnisight/pull/10) in [Ankit-builds1/omnisight](https://github.com/Ankit-builds1/omnisight)
-5. 💪 Opened PR [#9](https://github.com/Ankit-builds1/omnisight/pull/9) in [Ankit-builds1/omnisight](https://github.com/Ankit-builds1/omnisight)
+1. ❗ Opened issue [#21](https://github.com/Ankit-builds1/omnisight-forge/issues/21) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
+2. 🎉 Merged PR [#20](https://github.com/Ankit-builds1/omnisight-forge/pull/20) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
+3. 🔒 Closed issue [#19](https://github.com/Ankit-builds1/omnisight-forge/issues/19) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
+4. 💪 Opened PR [#20](https://github.com/Ankit-builds1/omnisight-forge/pull/20) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
+5. ❗ Opened issue [#19](https://github.com/Ankit-builds1/omnisight-forge/issues/19) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
 <!--END_SECTION:activity-->
 
 <sub>↑ This list rewrites itself every 6 hours from my public GitHub events.</sub>
