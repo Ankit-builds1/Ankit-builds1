@@ -226,8 +226,8 @@ Python · NVIDIA API
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#75](https://github.com/Ankit-builds1/omnisight-forge/issues/75) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
-2. 🔒 Closed issue [#70](https://github.com/Ankit-builds1/omnisight-forge/issues/70) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
+1. 🎉 Merged PR [#1](https://github.com/Ankit-builds1/Auralis/pull/1) in [Ankit-builds1/Auralis](https://github.com/Ankit-builds1/Auralis)
+2. 💪 Opened PR [#1](https://github.com/Ankit-builds1/Auralis/pull/1) in [Ankit-builds1/Auralis](https://github.com/Ankit-builds1/Auralis)
 3. ❗ Opened issue [#70](https://github.com/Ankit-builds1/omnisight-forge/issues/70) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
 4. 🔒 Closed issue [#68](https://github.com/Ankit-builds1/omnisight-forge/issues/68) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
 5. 🔒 Closed issue [#65](https://github.com/Ankit-builds1/omnisight-forge/issues/65) in [Ankit-builds1/omnisight-forge](https://github.com/Ankit-builds1/omnisight-forge)
